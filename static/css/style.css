@@ -1,0 +1,10 @@
+body {
+
+    color: #00008B;
+    background-color: #ADD8E6 ;
+  }
+  .jumbotron {
+    background-image: url("../images/agar.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
